@@ -1,0 +1,1 @@
+Open Web Interface for .Net (OWIN) middleware for limiting the maximum accepted number of requests and maximum requests that will be processed concurrently.
